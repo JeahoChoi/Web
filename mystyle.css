@@ -1,0 +1,92 @@
+body {
+  background-color: skyblue;
+  margin: 0
+    auto;
+  margin-top: 120px;
+  width: 960px;
+}
+
+.ms1
+  p {
+  font-weight: bold;
+}
+
+.ms1
+  h3 {
+  font-style: italic;
+}
+
+.main-header {
+  margin-left: 80px;
+  text-align: center;
+  background-color: white;
+  width: 800px;
+  height: 140px;
+  border: 3px
+    solid
+    black;
+  border-radius: 20px
+    20px
+    20px
+    20px;
+}
+
+.main-navigation {
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+
+.cut {
+  margin-bottom: 50px;
+}
+
+.navi1 {
+  padding: 0;
+}
+
+.navi1
+  li {
+  list-style: none;
+  float: left;
+  width: 320px;
+  height: 55px;
+  text-align: center;
+}
+
+.navi2 {
+  overflow: hidden;
+  padding: 0;
+}
+.navi2
+  li {
+  list-style: none;
+  float: left;
+  width: 320px;
+  text-align: center;
+}
+
+.ms1 {
+  padding: 0;
+}
+
+.ms1
+  li {
+  background-color: blanchedalmond;
+  list-style: none;
+  float: left;
+  margin-left: 10px;
+  width: 310px;
+  height: 300px;
+  text-align: center;
+  border-radius: 80px
+    80px
+    80px
+    80px;
+}
+
+.stick {
+  margin-left: 60px;
+  width: 200px;
+  height: 10px;
+  background-color: black;
+}
